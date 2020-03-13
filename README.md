@@ -4,6 +4,8 @@ Use steganography to hide a Chinese interview article in a PNG file.
 
 将《人物》杂志文章《发哨子的人》隐写入PNG图片。
 
+算了 我要弄张小点的图！
+
 ## How to Use/使用方法
 You can take `joshua_tree.png` as a CTF challenge...or just run `python3 whistleblower_decode.py` in your terminal. The interview file will go directly into `decode_text.txt` in your current directory.
 
