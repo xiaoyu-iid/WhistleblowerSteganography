@@ -17,6 +17,9 @@ You can take `joshua_tree.png` as a CTF challenge...
 
 ……或者可以直接在终端运行`python3 whistleblower_decode.py`。《发哨子的人》将被保存在当前目录下的`decode_text.txt`文件中。
 
+Well, the PNG file is a bit large :)
+额，PNG图片有点大~跑的时候耐心点:)
+
 ## Fair Use Statement
 《发哨子的人》
 
