@@ -1,8 +1,4 @@
 # Whistleblower Steganography
-LSB steganography using Python 3
-
-Python 3 实现的最低有效位隐写
-
 ## Intentions/目标
 Use steganography to hide a Chinese interview article in a PNG file.
 
@@ -19,6 +15,10 @@ You can take `joshua_tree.png` as a CTF challenge...
 
 Well, the PNG file is a bit large :)
 额，PNG图片有点大~跑的时候耐心点:)
+
+## Hint/提示
+LSB steganography. Pretty much too easy to be a CTF challenge.
+最低有效位隐写，实在是很简单的CTF问题啦……
 
 ## Fair Use Statement
 《发哨子的人》
